@@ -7,7 +7,7 @@ name = "vienna-os"
 version = "0.1.0"
 description = "Vienna OS SDK — The execution kernel for AI agents"
 readme = "README.md"
-license = "BSL-1.1"
+license = {text = "BSL-1.1"}
 requires-python = ">=3.9"
 authors = [{ name = "ai.ventures", email = "admin@ai.ventures" }]
 keywords = ["ai", "governance", "agents", "execution-kernel", "warrants"]
